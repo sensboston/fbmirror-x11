@@ -5,6 +5,11 @@ A lightweight X11 screen mirroring utility for SPI displays on Raspberry Pi.
 Efficiently mirrors the X11 display to a secondary framebuffer (e.g., SPI LCD) with cursor support. Designed as a low-CPU alternative to ffmpeg-based solutions.
 
 ## Photo
+
+Top display: [3.5 inches display with touchscreen](https://www.lcdwiki.com/3.5inch_RPi_Display)
+
+Bottom display: 3.5 inches HDMI display
+
 <img src="https://github.com/user-attachments/assets/c2a6000c-e427-456c-9494-0f46ba20df7a" width="50%">
 
 
